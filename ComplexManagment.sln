@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexManagment", "ComplexManagment\ComplexManagment.csproj", "{93D52058-1E30-4C49-97B8-E363653E8B34}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComplexMigration", "..\..\project\ComplexManagment\ComplexMigration\ComplexMigration.csproj", "{7396E561-3F6D-440D-BDC1-9B02E0687CE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{93D52058-1E30-4C49-97B8-E363653E8B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93D52058-1E30-4C49-97B8-E363653E8B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93D52058-1E30-4C49-97B8-E363653E8B34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7396E561-3F6D-440D-BDC1-9B02E0687CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7396E561-3F6D-440D-BDC1-9B02E0687CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7396E561-3F6D-440D-BDC1-9B02E0687CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7396E561-3F6D-440D-BDC1-9B02E0687CE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
